@@ -9,6 +9,6 @@ if (someValue > 2500) {
 } 
 
 if (someValue > 2000){
-  return "No can do."
+  return 'I will gladly take your thirty bucks.'
 }
 }
