@@ -8,7 +8,7 @@ if (someValue > 2500) {
   return "This one is on me!" 
 } 
 
-if (someValue > 2500){
+if (someValue > 2000){
   return "No can do."
 }
 }
