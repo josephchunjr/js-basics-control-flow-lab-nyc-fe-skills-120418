@@ -13,3 +13,4 @@ if (someValue > 2000){
 }
 }
 
+function ternaryCheckCity(city)
