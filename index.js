@@ -19,6 +19,9 @@ function ternaryCheckCity(city) {
 } else {
   return "No go."
 }
+}
 
-
+function switchOnCharmFromTip(tip) {
+  switch (tip)
+  case generous
 }
